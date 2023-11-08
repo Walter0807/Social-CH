@@ -1,0 +1,22 @@
+expname: wusi_ch 
+data: wusi
+epochs: 60
+save_freq: 10
+batch_size: 32
+seed: 77
+k_levels: 3
+
+lr: 0.0001
+lr_decay: 0.99
+dropout: 0
+
+d_model: 256
+d_inner_g: 1024
+d_inner_d: 1024
+d_hidden: 512
+
+lambda_gail: 0.002
+lambda_recon: 1
+
+gail_sample: True
+share_d: True
