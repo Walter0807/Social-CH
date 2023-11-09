@@ -5,7 +5,7 @@
 ## Description
 The Wusi Basketball Training Dataset is proposed in *Social Motion Prediction with Cognitive Hierarchies (NeurIPS 2023)*. It is a multi-person 3D motion dataset with a special focus on strategic interactions. This new dataset contains 3D skeleton representation of 5 people in highly intense basketball drills recorded at 25 FPS.
 
-Please check our [paper](https://openreview.net/pdf?id=lRu0dN7BY6) and the [project webpage](https://neurips.cc/virtual/2023/poster/70595) for more details. 
+Please check our [paper](https://arxiv.org/pdf/2311.04726.pdf) and [project page](https://walter0807.github.io/Social-CH/) for more details. 
 
 
 ## Dependencies
