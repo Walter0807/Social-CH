@@ -131,7 +131,7 @@ if opts.eval:
 
 if opts.train:
     wandb.init(
-            project="MRT-exp",
+            project="Social-CH",
             config=args,
             name=opts.config
     )
