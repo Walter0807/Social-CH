@@ -22,7 +22,7 @@ Please read carefully the [license agreement](LICENSE.md) before you download an
 
 1. We provide the processed training and testing split in numpy (sequence, people, frame, keypoints).
    - `training.npy`: (7125, 5, 50, 45)
-   - `training.npy`: (1782, 5, 50, 45)
+   - `testing.npy`: (1782, 5, 50, 45)
 
 2. If you wish to handle the full motion sequences and process them on your own, please download the `Wusi` folder to `data/` and check the processing guidance below. 
 
