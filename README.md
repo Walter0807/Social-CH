@@ -1,11 +1,11 @@
 # Social Motion Prediction with Cognitive Hierarchies (NeurIPS 2023)
 
 <p align="center">
-<a href="https://arxiv.org/pdf/2311.04726.pdf">
+<a href="https://arxiv.org/pdf/2311.04726.pdf", target="_blank">
 <img src="https://img.shields.io/badge/arXiv-2311.04726-b31b1b.svg?style=for-the-badge"></a>
-<a href="https://walter0807.github.io/Social-CH/">
+<a href="https://walter0807.github.io/Social-CH/", target="_blank">
 <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=Google%20chrome&logoColor=white" alt="Project Page"></a>
-<a href="https://www.youtube.com/watch?v=pVBICYpGhyU&ab_channel=JasonQin">
+<a href="https://www.youtube.com/watch?v=pVBICYpGhyU&ab_channel=JasonQin", target="_blank">
 <img src="https://img.shields.io/badge/YouTube-video-black?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black" alt="YouTube video"></a>
 </p>
 
