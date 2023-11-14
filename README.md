@@ -1,6 +1,14 @@
 # Social Motion Prediction with Cognitive Hierarchies (NeurIPS 2023)
 
-### [Project Page](https://walter0807.github.io/Social-CH/) | [Paper](https://arxiv.org/pdf/2311.04726.pdf) | [Dataset](data/) | [Video](https://www.youtube.com/watch?v=pVBICYpGhyU)
+<p align="center">
+<a href="https://arxiv.org/pdf/2311.04726.pdf">
+<img src="https://img.shields.io/badge/arXiv-2311.04726-b31b1b.svg?style=for-the-badge"></a>
+<a href="https://walter0807.github.io/Social-CH/">
+<img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=Google%20chrome&logoColor=white" alt="Project Page"></a>
+<a href="https://www.youtube.com/watch?v=pVBICYpGhyU&ab_channel=JasonQin">
+<img src="https://img.shields.io/badge/YouTube-video-black?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=black" alt="YouTube video"></a>
+</p>
+
 This is the official PyTorch implementation of the paper "Social Motion Prediction with Cognitive Hierarchies" (NeurIPS 2023).
 
 ![](https://walter0807.github.io/Social-CH/assets/teaser.gif)
